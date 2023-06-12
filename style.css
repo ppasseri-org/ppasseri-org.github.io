@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+}
+
+.fb{
+    background-color: #f0f2f5;
+    padding-bottom: 140px;
+}
+p{
+    color: #1c1e21;
+}
+
+.fixed-width{
+    width: 980px;
+    margin: auto;
+
+}
+
+
+.facebook {
+    display: inline-block;
+    width: 58%;
+    margin-top: 180px;
+}
+.facebook img {
+    width: 300px;
+    margin-left: -28px;
+}
+
+.facebook p {
+    font-size: 27px;
+    margin-top: -10px;
+    padding-right: 75px;
+    line-height: 32px;
+}
+
+
+
+.login-form{
+    display: inline-block;
+    width: 40%;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    position: relative;
+    top: 100px;
+    left: 0;
+}
+
+.login-form input {
+    display: inline-block;
+    width: 325px;
+    padding: 14px;
+    font-size: 17px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+.email:focus{
+    border: 1px solid blue;
+    box-shadow: 1px 1px 5px #1876f270;
+}
+
+.password:focus{
+    border: 1px solid blue;
+    box-shadow: 1px 1px 5px #1876f270;
+}
+
+.login-form .login-btn {
+    width: 357px;
+    margin-top: 7px;
+    background-color: #1773ecf8;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.login-form .login-btn:hover{
+    background-color: #166FE5;
+    transform: .5s;
+}
+
+.login-form .forget a{
+    display: inline-block;
+    font-size: 14px;
+    color: #1877f2;
+    text-decoration: none;
+    margin-bottom: 17px;
+}
+
+.login-form .forget a:hover{
+    text-decoration: underline;
+}
+
+.forget {
+    text-align: center;
+    margin-top: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.new-account{
+    text-align: center;
+}
+
+.new-account button {
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #42b72a;
+    border: none;
+    padding: 13px 15px;
+    border-radius: 5px;
+    margin: 8px 0;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.new-account button:hover{
+    background-color: #36A420;
+}
+
+.text{
+    width: 43%;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 127px;
+}
+
+.text p{
+    font-size: 14px;
+}
+
+.text a{
+    color:#1c1e21 ;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.text a:hover{
+    text-decoration: underline;
+}
+
+
+
+.language{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+
+.language .all-language{
+    border-bottom: 1px solid #ddd;
+}
+
+.language .all-language li{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.language .all-language li a{
+    display: inline-block;
+    text-decoration: none;
+    color:#656c7b ;
+    font-size: 12px;
+    padding: 0 7px;
+}
+
+
+.language .all-language li:last-child a{
+    border: 1px solid #ddd;
+    padding: 2px 10px;
+}
+
+.language .others{
+    margin-top: 10px;
+}
+.language .others li{
+    display: inline-block;
+    margin-bottom: 2px;
+}
+.language .others li a{
+    display: inline-block;
+    text-decoration: none;
+    color:#656c7b ;
+    font-size: 12px;
+    padding: 0 7px;
+}
+
+.language ul li:hover a {
+    text-decoration: underline;
+}
+
+ .footer{
+    color:#656c7b ;
+    font-size: 11px;
+    margin-left: 7px;
+    margin-bottom: 20px;
+    border-style: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
